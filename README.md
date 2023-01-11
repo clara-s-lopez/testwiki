@@ -1,2 +1,2 @@
-# testwiki
+# Test wiki
 Just testing
